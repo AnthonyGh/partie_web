@@ -1,0 +1,25 @@
+body{
+	margin:0px;
+	padding:0px;
+	margin-top:60px;
+	font-family: 'Ubuntu Condensed';
+}
+h1{
+	color:white;
+	margin:10px;
+	
+}
+header{
+	width:100%;
+	margin:0px;
+	height:60px;
+	background-color:#34495e;
+	position:fixed;
+	top:0px;
+}
+
+.menu{
+	margin-top:20px;
+	border:1px solid #34495e;
+	padding:20px;
+}
